@@ -28,7 +28,3 @@ Le projet suit une architecture Modèle-Vue-Contrôleur (MVC) pour une meilleure
 Pour exécuter localement le projet, assurez-vous d'avoir installé les dépendances.
 
 Pour exécuter l'application, exécutez `main.py`.
-
----
-
-N'hésitez pas à personnaliser ce README en fonction des besoins spécifiques de votre projet. Si vous avez d'autres questions ou besoin d'aide supplémentaire, n'hésitez pas à demander !
