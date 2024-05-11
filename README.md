@@ -1,7 +1,3 @@
-Voici le README pour votre projet sur GitHub :
-
----
-
 # Interface Graphique pour Analyse de Données CSV avec Architecture MVC
 
 ![Interface Graphique](https://i.ibb.co/9cDRhBY/Screenshot-2024-05-09-173939.png)
